@@ -1,12 +1,12 @@
 {
-    "name": "sofa/laravel-kahlan",
-    "description": "Kahlan specs suite for testing Laravel applications",
+    "name": "ljieyao/laravel-kahlan",
+    "description": "Kahlan specs suite for testing Laravel applications. Forked from sofa/laravel-khalan",
     "keywords": ["laravel", "testing", "bdd", "kahlan", "spec", "tdd"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Jarek Tkaczyk",
-            "email": "jarek@softonsofa.com"
+            "name": "JY Liu",
+            "email": "ljieyao0210developer@gmail.com"
         }
     ],
     "require": {
