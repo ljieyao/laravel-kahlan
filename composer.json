@@ -1,17 +1,17 @@
 {
-    "name": "sofa/laravel-kahlan",
-    "description": "Kahlan specs suite for testing Laravel applications",
+    "name": "ljieyao/laravel-kahlan",
+    "description": "Kahlan specs suite for testing Laravel applications. Forked from sofa/laravel-khalan",
     "keywords": ["laravel", "testing", "bdd", "kahlan", "spec", "tdd"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Jarek Tkaczyk",
-            "email": "jarek@softonsofa.com"
+            "name": "JY Liu",
+            "email": "ljieyao0210developer@gmail.com"
         }
     ],
     "require": {
         "php": ">=7.0",
-        "laravel/framework": "5.5.*",
+        "laravel/framework": "5.6.*",
         "kahlan/kahlan": "^3.0",
         "phpunit/phpunit" : "~6.0"
     },
@@ -20,5 +20,5 @@
             "Sofa\\LaravelKahlan\\": "src"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
